@@ -1,0 +1,15 @@
+div {
+  background-color: rgt(162, 127, 243);
+  color: rgb(1, 88, 88);
+  padding: 40px;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+h1 {
+  color:white;
+  background-color: bisque;
+  padding:10px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
